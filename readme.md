@@ -1,0 +1,1 @@
+# Alfred Bingo number randomizer
