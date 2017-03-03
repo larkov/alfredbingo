@@ -114,7 +114,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Bingo number randomizer with swedish text</string>
 	<key>uidata</key>
 	<dict>
 		<key>0E9DF41D-C22C-4F63-BAF6-42AA0725AFBE</key>
@@ -139,6 +139,8 @@
 			<integer>100</integer>
 		</dict>
 	</dict>
+	<key>version</key>
+	<string>0.1</string>
 	<key>webaddress</key>
 	<string>http://kovanen.se/</string>
 </dict>
