@@ -1,18 +1,20 @@
 #!/usr/bin/ruby
 
-a = rand(75)
+bingonumber = rand(75)
 
-case a
-when 1..15
-     puts "B#{a}"
-when 16..30
-     puts "I#{a}"
-when 31..45
-     puts "N#{a}"
-when 46..60
-     puts "G#{a}"
-when 61..75
-     puts "O#{a}"
-else
-     puts "Something else"
+case bingonumber
+    when 1..9
+        puts "Bertil #{bingonumber} enkel #{bingonumber}"
+    when 10..15
+        puts "Bertil #{bingonumber}"
+    when 16..30
+        puts "Ivar #{bingonumber}"
+    when 31..45
+        puts "Niklas #{bingonumber}"
+    when 46..60
+        puts "Gustav #{bingonumber}"
+    when 61..75
+        puts "Olof #{bingonumber}"
+    else
+        puts "Something else #{bingonumber}"
 end
