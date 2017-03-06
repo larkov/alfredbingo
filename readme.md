@@ -4,3 +4,4 @@
 - Remember which numbers have been given
 - Display how many numbers have been called out
 - Start a new round of bingo
+- Generate a bingo card
